@@ -10,7 +10,7 @@ First NodeJS application, allows the user to run a bot Facebook Messenger accoun
 * /compliment <tag user> - sends a random compliment to the chat complimenting the tagged user.
 * /leaderboard <messages|reactions> - posts a leaderboard depending on the given argument to the chat.
 
-Built using the (unofficial) [Facebook Chat API](https://github.com/Schmavery/facebook-chat-api/)
-/number command uses [Numbers API](http://numbersapi.com/#42)
-/chuck command uses [Chuck Norris API](https://api.chucknorris.io/)
-/meme command uses [Random Puppy](https://github.com/dylang/random-puppy) and [/r/dankmemes](https://www.reddit.com/r/dankmemes)
+Built using the (unofficial) [Facebook Chat API](https://github.com/Schmavery/facebook-chat-api/) <br />
+/number command uses [Numbers API](http://numbersapi.com/#42) <br />
+/chuck command uses [Chuck Norris API](https://api.chucknorris.io/) <br />
+/meme command uses [Random Puppy](https://github.com/dylang/random-puppy) and [/r/dankmemes](https://www.reddit.com/r/dankmemes) <br />
